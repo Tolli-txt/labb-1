@@ -209,8 +209,6 @@ dbwebb.assert("1.4", ANSWER, false);
  * Write your code below and put the answer into the variable ANSWER.
  */
 
- /* https://www.w3schools.com/jsref/jsref_switch.asp */
-
 var result3 = myFruit;
 var myFruit = prompt("What is your fruit?");
 
